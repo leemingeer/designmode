@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #many to many
 #encoding=utf-8
+#ref:https://www.cnblogs.com/Xjng/p/4038931.html
 
 __author__ = 'leemingeer'
 from abc import ABCMeta, abstractmethod
