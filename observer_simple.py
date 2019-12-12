@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #encoding=utf-8
 import logging
-
+# one to one 
 
 class Informer(object):
     observers = []
